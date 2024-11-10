@@ -19,6 +19,6 @@
     "nodemon": "^3.1.7"
   },
   "devDependencies": {
-    "@vercel/node": "^3.2.23"
+    "@vercel/node": "^3.2.24"
   }
 }
